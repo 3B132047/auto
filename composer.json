@@ -7,9 +7,14 @@
     },
     "authors": [
         {
-            "name": "hello-world",
+            "name": "黃鐙霆",
             "email": "7iuy6u@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload"{
+        "psr-4"{
+            "Demo\\":"./src/Demo"
+        }
+    }
 }
