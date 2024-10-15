@@ -11,9 +11,11 @@
             "email": "7iuy6u@gmail.com"
         }
     ],
-    "require": {},
-    "autoload"{
-        "psr-4"{
+    "require": {
+        "monolog/monolog": "^3.7"
+    },
+    "autoload1":{
+        "psr-4":{
             "Demo\\":"./src/Demo"
         }
     }
