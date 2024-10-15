@@ -1,0 +1,15 @@
+{
+    "name": "user/auto",
+    "autoload": {
+        "psr-4": {
+            "User\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hello-world",
+            "email": "7iuy6u@gmail.com"
+        }
+    ],
+    "require": {}
+}
